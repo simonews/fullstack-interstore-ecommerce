@@ -1,6 +1,4 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# dependencies - AGGIUSTATO: punta alla cartella del frontend
+# dependencies 
 /interstore-frontend/node_modules
 /.pnp
 .pnp.js
@@ -8,7 +6,7 @@
 # testing
 /interstore-frontend/coverage
 
-# production - AGGIUSTATO: punta alla cartella del frontend
+# production 
 /interstore-frontend/build
 
 # misc
@@ -22,7 +20,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 # =====================
-# Maven build outputs - AGGIUSTATO: punta alla cartella del backend
+# Maven build outputs 
 # =====================
 /interstore-backend/target/
 /dependency-reduced-pom.xml

@@ -37,17 +37,15 @@ Istruzioni per l'Avvio
 
 Prerequisiti
 
-  Java Development Kit (JDK 21+)
+      Java Development Kit (JDK 21+)
 
-  Node.js e npm
+      Node.js e npm
 
-  Un'istanza di PostgreSQL
+      Un'istanza di PostgreSQL
 
 1. Avvio del Backend (Spring Boot)
 
-    Configurare le credenziali del database PostgreSQL nel file application.properties (o application.yml).
-
-    Navigare nella cartella del Backend.
+    Configurare le credenziali del database PostgreSQL nel file application.properties.
 
     Avviare l'applicazione su interstore-backend>>src>>main>>java>>com>>interstore.interstore_backend>>InterStoreBAckendApplication (L'applicazione sarà disponibile su http://localhost:8080).
 

@@ -1,0 +1,68 @@
+# =====================
+# Maven build outputs
+# =====================
+/target/
+/dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# =====================
+# IntelliJ IDEA files
+# =====================
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# =====================
+# Java miscellaneous
+# =====================
+*.class
+*.log
+*.ctxt
+hs_err_pid*
+*.jar
+*.war
+*.ear
+*.nar
+
+# =====================
+# OS-specific files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Temporary and backup files
+# =====================
+*~
+*.swp
+*.bak
+
+# =====================
+# Test reports / coverage
+# =====================
+*.exec
+*.ec
+*.coverage
+*.coverage.xml
+/test-output/
+/surefire-reports/
+
+# =====================
+# Profiling / debug
+# =====================
+replay_pid*
+hs_err_pid*
+
+# =====================
+# Resources folder
+# =====================
+/src/main/resources/

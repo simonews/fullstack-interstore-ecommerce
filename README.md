@@ -1,6 +1,3 @@
-Progetto didattico di E-commerce Full-Stack sviluppato con Spring Boot per il Backend e React per il Frontend, destinato alla vendita online di prodotti per la squadra di calcio Inter (merchandising). 
-Il progetto è stato concepito per dimostrare la padronanza delle architetture a microservizi, dell'autenticazione sicura tramite JWT e della gestione della concorrenza in ambienti transazionali.
--------------------------------------------
 Backend (API REST)
 
     Framework: Spring Boot (Java 21)
